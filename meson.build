@@ -8,5 +8,5 @@ project('project_template', 'cpp',
   }
 )
 
-subdir('lib')
+subdir('libs')
 subdir('apps')

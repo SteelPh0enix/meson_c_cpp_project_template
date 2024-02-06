@@ -1,2 +1,0 @@
-subdir('calc')
-subdir('greeter')
