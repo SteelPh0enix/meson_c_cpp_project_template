@@ -10,3 +10,4 @@ project('project_template', 'cpp',
 
 subdir('libs')
 subdir('apps')
+subdir('tests')
