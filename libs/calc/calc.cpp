@@ -1,9 +1,9 @@
 #include "calc.hpp"
 
-double celcius_to_fahrenheit(double celcius) {
+double celsius_to_fahrenheit(double celcius) {
   return (celcius * (9.0 / 5.0)) + 32.0;
 }
 
-double fahrenheit_to_celcius(double fahrenheit) {
+double fahrenheit_to_celsius(double fahrenheit) {
   return (fahrenheit - 32.0) * (5.0 / 9.0);
 }
